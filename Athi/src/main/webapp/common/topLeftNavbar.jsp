@@ -30,8 +30,8 @@
 				</a>
 					<ul class="sidenav-second-level collapse" id="collapseComponents1">
 						<li><a href="QnADesign.do">QnADesign</a></li>
-						<li><a href="QnADL">QnADL</a></li>
-						<li><a href="QnAProgram">QnAProgram</a></li>
+						<li><a href="QnADL.do">QnADL</a></li>
+						<li><a href="QnAProgram.do">QnAProgram</a></li>
 					</ul></li>
 				<li class="nav-item" data-toggle="tooltip" data-placement="right"
 					title="팁과 노하우"><a class="nav-link nav-link-collapse collapsed"
